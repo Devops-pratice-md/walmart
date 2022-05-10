@@ -1,2 +1,2 @@
-this file cintains the deployment script
+this file cintains the deployment scripts
 
